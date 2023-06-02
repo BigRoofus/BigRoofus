@@ -20,4 +20,4 @@ I'm a tenacious Full-Stack Developer with over 6 years experience. Throughout my
 ### Tools and Languages
 
 <!-- get icons from https://github.com/tandpfun/skill-icons -->
-<img src="https://skillicons.dev/icons?i=aws,azure,css,docker,dotnet,git,html,mongodb,mysql,nodejs,postgres,postman,py,react,sass,vue&perline=3" />
+<img src="https://skillicons.dev/icons?i=aws,azure,css,docker,dotnet,git,html,mongodb,mysql,nodejs,postgres,postman,py,react,sass,vue&perline=5" />
