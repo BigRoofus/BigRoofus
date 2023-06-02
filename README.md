@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+Tools and Languages
+
+Visual Studio Code
+
+HTML5
+
+CSS3
+
+JavaScript
+
+CSS3
+
+SQL
+
+MySQL
+
+Git
+
+GitHub
+
+HTML5
+
 <!--
 **BigRoofus/BigRoofus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
