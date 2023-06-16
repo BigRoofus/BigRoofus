@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ryan! 👋
 
-I'm a tenacious Full-Stack Developer with over 6 years experience. Throughout my career I've built apps and deployed websites with annual revenues of over $200MM.
+I'm a tenacious Full-Stack Developer with over 6 years experience. Throughout my career I've built apps and deployed websites with annual revenues of over $180MM.
 
 ### Tools and Languages
 
