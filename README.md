@@ -20,4 +20,4 @@ I'm a tenacious Software Developer with over 6 years experience. Throughout my c
 ### Tools and Languages
 
 <!-- get icons from https://github.com/tandpfun/skill-icons -->
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,html,css,js,mysql,nodejs,postgres,postman,py,react,sass,ts,svelte,vue,vite&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,svelte,vue,react,html,css,sass,ts,mysql,postman,py,vite,docker,kubernetes,git,aws,azure&perline=4" />
