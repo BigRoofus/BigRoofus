@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Ryan! 👋
+### My name's Ryan
 
 Tenacious Software Developer with over 4 years experience. Throughout my career I've built apps and deployed websites with annual revenues of over $180MM.
 
