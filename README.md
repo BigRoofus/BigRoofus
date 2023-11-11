@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi.
+### Hello.
 
-Tenacious Software Developer with over 4 years experience. Throughout my career I've built apps and deployed websites with annual revenues of over $180MM.
+I'm a tenacious Software Developer with over 4 years experience. Throughout my career I've built apps and deployed websites with annual revenues of over $180MM.
 
 ### Tools and Languages
 
