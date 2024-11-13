@@ -1,7 +1,4 @@
-<!--
-**BigRoofus/BigRoofus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hello.
+### Hello!
 
 Tenacious Software Developer with over 4 years experience. Throughout my career I've built apps and deployed websites with annual revenues of over $180MM.
 
