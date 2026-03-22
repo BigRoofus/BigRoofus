@@ -1,8 +1,8 @@
 # Software Engineer | Audio, Fintech & Algorithmic Systems
 
-I am a Full-Stack Developer specializing in the intersection of **High-Impact Fintech** and **Creative Audio Engineering**. My background includes building mission-critical SaaS and digital banking platforms that process over **$180M USD annually**, ensuring a foundation of scalability, security, and precision.
+Full-Stack Developer specializing in the intersection of **High-Impact Fintech** and **Creative Audio Engineering**. Background includes building mission-critical SaaS and digital banking platforms that process over **$180M USD annually**, ensuring a foundation of scalability, security, and precision.
 
-Currently, I am bridging the gap between quantitative engineering and musical creativity through **Digital Signal Processing (DSP)**, **Generative MIDI Composition**, and **Machine Learning**. 
+Currently, bridging the gap between quantitative engineering and musical creativity through **Digital Signal Processing (DSP)**, **Generative MIDI Composition**, and **Machine Learning**. 
 
 ---
 
