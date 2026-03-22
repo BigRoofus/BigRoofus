@@ -1,10 +1,20 @@
-# Soft Man
-Former Full-Stack Developer now specializing in the intersection of High-Impact Fintech and Creative Audio Engineering. 
+# Soft Man  
+Former Full-Stack Developer specializing at the intersection of high-impact fintech and creative audio engineering.
 
 ### Pedigree
 
-Fintech & Trading Python (Back-end), WebSockets, MQL4/5, Alpaca, Polygon.io, TwelveData, Interactive Brokers, Thinkorswim, Quantitative Tools, NinjaTrader, QuantRocket, QuantConnect, Financial Data Simulation. Full-Stack & Audio Python, JavaScript/TypeScript, MIDI Automation, Digital Signal Processing, API Integration. I've built mission-critical SaaS and digital banking platforms that process over $180M USD annually.
+**Fintech & Trading:** Python (backend), WebSockets, MQL4/5, Alpaca, Polygon.io, TwelveData, Interactive Brokers, Thinkorswim, NinjaTrader, QuantRocket, QuantConnect, financial data simulation, and quantitative tooling.
+
+**Full-Stack & Audio:** Python, JavaScript/TypeScript, API integration, MIDI automation, and digital signal processing.
+
+Built and deployed mission-critical SaaS and digital banking platforms processing over $180M USD annually.
 
 ### Currently
 
-Bridging the gap between quantitative engineering and musical creativity through Digital Signal Processing (DSP), Generative MIDI Composition, and Machine Learning. seeking a foundation of scalability, security, and precision. Audio & Music Tech: DSP, Generative MIDI, ML-driven music technologies, and VST/Audio Plugin development. Algorithmic Trading: Architectural design for market-beating systems. I operate on the premise that markets contain exploitable statistical irregularities driven by human behavior and structural constraints. Full-Stack Development: Scalable SaaS platforms and high-stakes financial systems with a focus on both front-end responsiveness and back-end integrity.
+Working at the convergence of quantitative engineering and musical creativity.
+
+**Audio & Music Tech:** DSP, generative MIDI systems, machine learning–driven composition, and VST/audio plugin development.
+
+**Algorithmic Trading:** Designing architectures for statistically driven trading systems, grounded in the premise that markets exhibit exploitable irregularities shaped by human behavior and structural constraints.
+
+**Full-Stack Development:** Building scalable SaaS platforms and high-stakes financial systems with an emphasis on performance, security, and reliability across both front-end and back-end systems.
