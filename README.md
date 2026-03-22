@@ -1,5 +1,4 @@
 # Soft Man
-
 Former Full-Stack Developer now specializing in the intersection of High-Impact Fintech and Creative Audio Engineering. 
 
 ### Pedigree
