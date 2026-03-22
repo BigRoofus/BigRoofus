@@ -1,8 +1,6 @@
 # Soft Man
 
-Former Full-Stack Developer now specializing in the intersection of High-Impact Fintech and Creative Audio Engineering. 
-
-I've built mission-critical SaaS and digital banking platforms that process over $180M USD annually.
+Former Full-Stack Developer now specializing in the intersection of High-Impact Fintech and Creative Audio Engineering. I've built mission-critical SaaS and digital banking platforms that process over $180M USD annually.
 
 Currently, bridging the gap between quantitative engineering and musical creativity through Digital Signal Processing (DSP), Generative MIDI Composition, and Machine Learning.
 ensuring a foundation of scalability, security, and precision.
