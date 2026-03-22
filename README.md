@@ -6,7 +6,6 @@ Currently, bridging the gap between quantitative engineering and musical creativ
 
 ---
 
-### 🛠 Core Expertise
 
 * **Audio & Music Tech:** DSP, Generative MIDI, ML-driven music technologies, and VST/Audio Plugin development.
 * **Algorithmic Trading:** Architectural design for market-beating systems. I operate on the premise that markets contain exploitable statistical irregularities driven by human behavior and structural constraints.
