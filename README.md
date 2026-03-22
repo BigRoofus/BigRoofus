@@ -1,4 +1,4 @@
-# Software Man
+# Soft Man
 
 Full-Stack Developer specializing in the intersection of **High-Impact Fintech** and **Creative Audio Engineering**. Background includes building mission-critical SaaS and digital banking platforms that process over **$180M USD annually**, ensuring a foundation of scalability, security, and precision.
 
