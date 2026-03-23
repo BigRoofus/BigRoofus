@@ -1,4 +1,4 @@
-# Soft Man  
+# Software Man  
 Former Full-Stack Developer specializing in the intersection of high-impact fintech and creative audio engineering. Built and deployed mission-critical SaaS and digital banking platforms processing over $180M USD annually.
 
 ### Pedigree
