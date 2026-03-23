@@ -8,7 +8,7 @@ Former Full-Stack Developer functioning within the liminal strata of high-impact
 Directed the synthesis and orchestration of latency-constrained, event-driven trading architectures, leveraging Python-based backend systems, WebSocket transport layers, and institutional-grade execution and data infrastructure (Schwab, IBKR, Alpaca, Kalshi, IG Group, Moomoo, Coinbase Advanced). Emphasis placed on the development of synthetic market constructs, stochastic process modeling, and the calibration of bespoke quantitative frameworks for signal extraction within complex, non-stationary environments.
 
 **Full-Stack & Audio:**  
-Built cross-domain implementations spanning Python and JavaScript/TypeScript, with emphasis on API surface abstraction, MIDI systematization, and real-time digital signal transformation.
+Built cross-domain implementations spanning Python and JavaScript/TypeScript and Rust, with emphasis on API surface abstraction, MIDI systematization, and real-time digital signal transformation.
 
 # What It Is
 
