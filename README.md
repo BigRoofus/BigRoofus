@@ -1,10 +1,23 @@
 # Software Man  
-Former Full-Stack Developer specializing in the intersection of high-impact fintech and creative audio engineering. Built and deployed mission-critical SaaS and digital banking platforms processing over $180M USD annually.
+Former Full-Stack Developer functioning within the liminal strata of high-impact financial systems and experimental audio computation. Designer and steward of mission-critical SaaS and digital banking architectures exhibiting annualized transactional throughput in excess of $180M USD.
 
-### Pedigree
+### What It Was
 
-Fintech & Trading: Python (backend), WebSockets, MQL4/5, Alpaca, Polygon.io, TwelveData, Interactive Brokers, Thinkorswim, NinjaTrader, QuantRocket, QuantConnect, financial data simulation, and quantitative tooling. Full-Stack & Audio: Python, JavaScript/TypeScript, API integration, MIDI automation, and digital signal processing.
+**Fintech & Trading:**  
+Directed the synthesis and orchestration of latency-constrained, event-driven trading architectures, leveraging Python-based backend systems, WebSocket transport layers, and institutional-grade execution and data infrastructure (Interactive Brokers, NinjaTrader, QuantConnect). Emphasis placed on the development of synthetic market constructs, stochastic process modeling, and the calibration of bespoke quantitative frameworks for signal extraction within complex, non-stationary environments.
 
-### Currently
+**Full-Stack & Audio:**  
+Built cross-domain implementations spanning Python and JavaScript/TypeScript, with emphasis on API surface abstraction, MIDI systematization, and real-time digital signal transformation.
 
-Working at the convergence of quantitative engineering and musical creativity. Audio & Music Tech: DSP, generative MIDI systems, machine learning–driven composition, and VST/audio plugin development. Algorithmic Trading: Designing architectures for statistically driven trading systems, grounded in the premise that markets exhibit exploitable irregularities shaped by human behavior and structural constraints. Full-Stack Development: Building scalable SaaS platforms and high-stakes financial systems with an emphasis on performance, security, and reliability across both front-end and back-end systems.
+### What It Is
+
+Operating at the convergence point of quantitative inference and structured sound design.
+
+**Audio & Music Technology:**  
+Development of DSP pipelines, probabilistic MIDI generation frameworks, machine-assisted compositional systems, and extensible VST/audio processing architectures.
+
+**Algorithmic Trading:**  
+Designing multi-layered execution and decision systems predicated on the persistence of statistical disequilibrium within financial markets—interpreted as emergent artifacts of behavioral inefficiency and structural asymmetry.
+
+**Full-Stack Development:**  
+Engineering horizontally scalable SaaS infrastructures and high-integrity financial platforms, with priority given to deterministic performance, fault tolerance, and systemic resilience across distributed application layers.
