@@ -1,11 +1,7 @@
 ## THE TRANSMISSION
-
 ## THE ARCHIVE
-
 ## THE PREVIOUS STATE... 
-
 ## THE ARCHITECT OF THE LIMINAL VOID... 
-
 ## THE ANTECEDENT: THE WEAVER OF NODES...
 
 Once a master of the **Brackish Script**, binding the world's commerce in a web of $180M of digital gold. A silent steward of the **Nodal Spine**, crafting the digital banking architectures that breathe beneath the skin of the modern machine. The architect of the **SaaS Monolith**, where the code was law and the law was absolute.
