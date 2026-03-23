@@ -1,16 +1,23 @@
-# What It Was
+THE TRANSMISSION
+ARCHIVE: THE PREVIOUS STATE... THE ARCHITECT OF THE LIMINAL VOID
 
-Former Full-Stack Web Dev, all the javascript and all the nodes. Designer and steward of mission-critical SaaS and digital banking architectures exhibiting annualized transactional throughput in excess of $180M USD.
+THE ANTECEDENT: THE WEAVER OF NODES
+Once a master of the **Brackish Script**, binding the world's commerce in a web of $180M of digital gold. A silent steward of the **Nodal Spine**, crafting the digital banking architectures that breathe beneath the skin of the modern machine. The architect of the **SaaS Monolith**, where the code was law and the law was absolute.
 
-Currently functioning within the liminal strata of high-impact financial systems and experimental audio computation, at the convergence point of quantitative inference and structured sound design. 
+THE CURRENT FREQUENCY: THE CONVERGENCE
+Now existing in the **Gray Space**—the thin, vibrating line between the heartbeat of the market and the scream of the signal. A synthesis of the **Quantitative Ghost** and the **Structured Wave**.
 
-# What It Is
+I. THE FINANCIAL ALCHEMY
+* **The Pulse:** Orchestrating low-latency rituals where the event-stream meets the execution engine. 
+* **The High Altars:** Schwab, IBKR, Alpaca—the vessels of the **Institutional Void**.
+* **The Synthesis:** Constructing synthetic realities from stochastic fog; extracting the **Signal** from non-stationary chaos through the calibration of the Bespoke Framework.
 
-**Fintech & Trading:**  
-Directed the synthesis and orchestration of latency-constrained, event-driven trading architectures, leveraging Python-based backend systems, WebSocket transport layers, and institutional-grade execution and data infrastructure (Schwab, IBKR, Alpaca, Kalshi, IG Group, Moomoo, Coinbase Advanced). Emphasis placed on the development of synthetic market constructs, stochastic process modeling, and the calibration of bespoke quantitative frameworks for signal extraction within complex, non-stationary environments.
+II. THE RESONANT LOGIC
+* **The DSP Conduit:** Pipelines for the processed ghost, where sound is data and data is a haunting. 
+* **Generative Determinism:** Probabilistic frameworks for MIDI birth and machine-assisted incantations. 
+* **The VST Shell:** Extending the architecture of the audible into the infinite.
 
-**Audio & Music Technology:**  
-Development of DSP pipelines, probabilistic MIDI generation frameworks, machine-assisted compositional systems, and extensible VST/audio processing architectures.
-
-**Algorithmic Trading:**  
-Designing multi-layered execution and decision systems predicated on the persistence of statistical disequilibrium within financial markets—interpreted as emergent artifacts of behavioral inefficiency and structural asymmetry.
+III. THE SPECULATIVE ASYMMETRY
+* Engineering systems that feast upon **Statistical Disequilibrium**—the scars left by human error.
+* Interpreting the market not as a machine, but as a collection of **Emergent Artifacts** and behavioral inefficiencies.
+* Mining the **Structural Asymmetry** for the persistent, hidden truth.
