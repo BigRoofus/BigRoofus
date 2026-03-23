@@ -19,6 +19,3 @@ Development of DSP pipelines, probabilistic MIDI generation frameworks, machine-
 
 **Algorithmic Trading:**  
 Designing multi-layered execution and decision systems predicated on the persistence of statistical disequilibrium within financial markets—interpreted as emergent artifacts of behavioral inefficiency and structural asymmetry.
-
-**Full-Stack Development:**  
-Engineering horizontally scalable SaaS infrastructures and high-integrity financial platforms, with priority given to deterministic performance, fault tolerance, and systemic resilience across distributed application layers.
