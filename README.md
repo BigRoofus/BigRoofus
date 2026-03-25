@@ -23,3 +23,5 @@ III. SPECULATIVE ASYMMETRY
 * Engineering systems that feast upon **Statistical Disequilibrium**—the scars left by human error.
 * Interpreting the market not as a machine, but as a collection of **Emergent Artifacts** and behavioral inefficiencies.
 * Mining the **Structural Asymmetry** for the persistent, hidden truth.
+
+### CONTACT FORBIDDEN
