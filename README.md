@@ -4,10 +4,10 @@
 ### THE ARCHITECT OF THE LIMINAL VOID... 
 ### THE ANTECEDENT: THE WEAVER OF NODES...
 
-The master of the **Brackish Script**, binding the world's commerce to a web of $180M digital gold. A silent steward of the **Nodal Spine**, crafting the digital banking architectures that breathe beneath the skin of the modern machine. The architect of the **SaaS Monolith**, where the code was law and the law was absolute.
+The master of the **Brackish Script**, binding the world's commerce to a web of $180M digital gold. A silent steward of the **Nodal Spine**, crafting the digital banking architectures that breathe beneath the skin of the modern machine. An architect of the **SaaS Monolith**, where the code was law and the law was absolute.
 
 THE CURRENT FREQUENCY: THE CONVERGENCE
-Now existing in the **Gray Space**—the thin, vibrating line between the heartbeat of the market and the scream of the signal. A synthesis of the **Quantitative Ghost** and the **Structured Wave**.
+Currently existing in the **Gray Space**—the thin, vibrating line between the heartbeat of the market and the scream of the signal. A synthesis of the **Quantitative Ghost** and the **Structured Wave**.
 
 I. FINANCIAL ALCHEMY
 * **The Pulse:** Orchestrating low-latency rituals where the event-stream meets the execution engine. 
