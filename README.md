@@ -24,4 +24,5 @@ III. SPECULATIVE ASYMMETRY
 * Interpreting the market not as a machine, but as a collection of **Emergent Artifacts** and behavioral inefficiencies.
 * Mining the **Structural Asymmetry** for the persistent, hidden truth.
 
-### CONTACT FORBIDDEN
+
+### - CONTACT FORBIDDEN -
