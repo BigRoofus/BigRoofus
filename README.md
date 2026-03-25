@@ -25,4 +25,4 @@ III. SPECULATIVE ASYMMETRY
 * Mining the **Structural Asymmetry** for the persistent, hidden truth.
 
 
-### !! ALL CONTACT STRICTLY FORBIDDEN -
+### !! - ALL CONTACT STRICTLY FORBIDDEN -
