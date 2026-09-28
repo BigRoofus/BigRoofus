@@ -1,1 +1,1 @@
-### A master of the brackish script
+### A participant in the brackish script
